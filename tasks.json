@@ -1,0 +1,48 @@
+[
+   {
+      "Name": "& C:/Users/Safeer/AppData/Local/Programs/Python/Python314/python.exe c:/Users/Safeer/OneDrive/Documents/Python-Project/To-Do-list/To-Do-List.py",
+      "status": "Pending",
+      "Item-Name": [
+         {
+            "item": "& C:/Users/Safeer/AppData/Local/Programs/Python/Python314/python.exe c:/Users/Safeer/OneDrive/Documents/Python-Project/To-Do-list/To-Do-List.py",
+            "status": "pending"
+         },
+         {
+            "item": "& C:/Users/Safeer/AppData/Local/Programs/Python/Python314/python.exe c:/Users/Safeer/OneDrive/Documents/Python-Project/To-Do-list/To-Do-List.py",
+            "status": "pending"
+         },
+         {
+            "item": "& C:/Users/Safeer/AppData/Local/Programs/Python/Python314/python.exe c:/Users/Safeer/OneDrive/Documents/Python-Project/To-Do-list/To-Do-List.py",
+            "status": "pending"
+         },
+         {
+            "item": "& C:/Users/Safeer/AppData/Local/Programs/Python/Python314/python.exe c:/Users/Safeer/OneDrive/Documents/Python-Project/To-Do-list/To-Do-List.py",
+            "status": "pending"
+         }
+      ]
+   },
+   {
+      "Name": "Food",
+      "status": "Pending",
+      "Item-Name": [
+         {
+            "item": "",
+            "status": "pending"
+         },
+         {
+            "item": "",
+            "status": "pending"
+         }
+      ]
+   },
+   {
+      "Name": "Fruits",
+      "status": "Red",
+      "Item-Name": [
+         {
+            "item": "",
+            "status": "pending"
+         }
+      ]
+   }
+]
